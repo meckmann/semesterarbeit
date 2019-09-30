@@ -21,3 +21,5 @@ Durch einen Klick auf Laden kann das Savegame geladen werden.
 
 
 Die Anforderungen zu Basisstufe 1 sind erfüllt worden.
+
+Gruppenmitglieder : Max Eckmann & Merve Dutucu

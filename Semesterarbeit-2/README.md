@@ -1,4 +1,4 @@
-In diesem Verzeichniss findet sich die Semesterarbeit zu Softwaretechnologie II.
+In diesem Verzeichnis findet sich die Semesterarbeit zu Softwaretechnologie II.
 
 meinwidget.cpp, meinwidget.h, zeichenfeld.cpp und zeichenfeld.h wurden den Vorlesungsfolien entnommen und entsprechend
 bearbeitet und erweitert. (attributsflaeche/myDevice)

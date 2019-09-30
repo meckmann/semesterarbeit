@@ -1,0 +1,5 @@
+<!ELEMENT product (name,type,photos,instafollower)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT photos (#PCDATA)>
+<!ELEMENT instafollower (#PCDATA)>

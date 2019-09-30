@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+
+-<listKardashians>
+
+
+-<product>
+
+<name id="01">Kim</name>
+
+<type>most relevant</type>
+
+<instafollower>148mio</instafollower>
+
+<photos>47555</photos>
+
+</product>
+
+
+-<product>
+
+<name id="02">Khloe</name>
+
+<type>fifth most relevant</type>
+
+<instafollower>98mio</instafollower>
+
+<photos>3600</photos>
+
+</product>
+
+
+-<product>
+
+<name id="03">Kourtney</name>
+
+<type>fourth most relevant</type>
+
+<instafollower>81mio</instafollower>
+
+<photos>3700</photos>
+
+</product>
+
+
+-<product>
+
+<name id="04">Kendall</name>
+
+<type>third most relevant</type>
+
+<instafollower>116mio</instafollower>
+
+<photos>3000</photos>
+
+</product>
+
+
+-<product>
+
+<name id="05">Kylie</name>
+
+<type>second most relevant</type>
+
+<instafollower>147mio</instafollower>
+
+<photos>6000</photos>
+
+</product>
+
+
+-<product>
+
+<name id="06">Kris</name>
+
+<type>sixth most relevant</type>
+
+<instafollower>29mio</instafollower>
+
+<photos>5200</photos>
+
+</product>
+
+
+-<product>
+
+<name id="07">Rob</name>
+
+<type>least relevant</type>
+
+<instafollower>1mio</instafollower>
+
+<photos>125</photos>
+
+</product>
+
+
+
+</listKardashians>
